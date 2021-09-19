@@ -26,6 +26,7 @@ img {
 button { 
   outline: none;
   border: 0;
+  cursor: pointer;
 }
 
 
